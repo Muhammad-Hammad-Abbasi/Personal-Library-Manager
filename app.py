@@ -1,4 +1,3 @@
-
 import streamlit as st
 from database import add_book, get_all_book, delete_book, search_book, get_statistics
 
